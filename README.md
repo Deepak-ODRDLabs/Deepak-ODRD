@@ -9,7 +9,7 @@
 
 ### 🙋‍♂️ About Me
 
-- 🌱 Having experience in Automation Testing and Manual Testing**.**
+- 🌱 Having experience in **Automation Testing and Manual Testing**
 
 - 📫 How to reach me : **deepakvish154@gmail.com**
 
